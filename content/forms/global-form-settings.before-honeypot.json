@@ -1,0 +1,32 @@
+{
+  "layout": {
+    "labelPlacement": "top",
+    "asteriskPlacement": "asterisk-right",
+    "helpMessagePlacement": "with_label",
+    "errorMessagePlacement": "inline",
+    "cssClassName": ""
+  },
+  "misc": {
+    "isIpLogingDisabled": false,
+    "isAnalyticsDisabled": true,
+    "file_upload_locations": "",
+    "admin_top_nav_status": "yes",
+    "default_admin_date_time": "time_diff"
+  },
+  "default_messages": {
+    "required": "This field is required",
+    "email": "This field must contain a valid email",
+    "numeric": "This field must contain numeric value",
+    "min": "Validation fails for minimum value",
+    "max": "Validation fails for maximum value",
+    "digits": "Validation fails for limited digits",
+    "min_selection": "Please select at least the minimum number of options",
+    "max_selection": "You have selected more options than allowed",
+    "url": "This field must contain a valid url",
+    "allowed_image_types": "Allowed image types does not match",
+    "allowed_file_types": "Invalid file type",
+    "max_file_size": "Validation fails for maximum file size",
+    "max_file_count": "Validation fails for maximum file count",
+    "valid_phone_number": "Phone number is not valid"
+  }
+}
